@@ -1,0 +1,12 @@
+D:\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyInfoLib\bin\Debug\AssemblyInfoLib.dll
+D:\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyInfoLib\bin\Debug\AssemblyInfoLib.pdb
+D:\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyInfoLib\obj\Debug\AssemblyInfoLib.csproj.CoreCompileInputs.cache
+D:\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyInfoLib\obj\Debug\AssemblyInfoLib.dll
+D:\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyInfoLib\obj\Debug\AssemblyInfoLib.pdb
+D:\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyInfoLib\obj\Debug\AssemblyInfoLib.csprojAssemblyReference.cache
+C:\Users\pavle\Desktop\AssemblyBrowser_MPP_3-main\AssemblyInfoLib\bin\Debug\AssemblyInfoLib.dll
+C:\Users\pavle\Desktop\AssemblyBrowser_MPP_3-main\AssemblyInfoLib\bin\Debug\AssemblyInfoLib.pdb
+C:\Users\pavle\Desktop\AssemblyBrowser_MPP_3-main\AssemblyInfoLib\obj\Debug\AssemblyInfoLib.csprojAssemblyReference.cache
+C:\Users\pavle\Desktop\AssemblyBrowser_MPP_3-main\AssemblyInfoLib\obj\Debug\AssemblyInfoLib.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Desktop\AssemblyBrowser_MPP_3-main\AssemblyInfoLib\obj\Debug\AssemblyInfoLib.dll
+C:\Users\pavle\Desktop\AssemblyBrowser_MPP_3-main\AssemblyInfoLib\obj\Debug\AssemblyInfoLib.pdb
